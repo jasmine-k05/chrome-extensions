@@ -1,0 +1,417 @@
+[
+  {
+    "name": "Rewa Airport, Chorhata, REWA",
+    "city": "Rewa",
+    "iata": "REW"
+  },
+  {
+    "name": "Sardar Vallabhbhai Patel International Airport",
+    "city": "Ahmedabad",
+    "iata": "AMD"
+  },
+  {
+    "name": "Akola Airport",
+    "city": "Akola",
+    "iata": "AKD"
+  },
+  {
+    "name": "Aurangabad Airport",
+    "city": "Aurangabad",
+    "iata": "IXU"
+  },
+  {
+    "name": "Chhatrapati Shivaji International Airport",
+    "city": "Mumbai",
+    "iata": "BOM"
+  },
+  {
+    "name": "Bilaspur Airport",
+    "city": "Bilaspur",
+    "iata": "PAB"
+  },
+  {
+    "name": "Bhuj Airport",
+    "city": "Bhuj",
+    "iata": "BHJ"
+  },
+  {
+    "name": "Belgaum Airport",
+    "city": "Belgaum",
+    "iata": "IXG"
+  },
+  {
+    "name": "Vadodara Airport",
+    "city": "Vadodara",
+    "iata": "BDQ"
+  },
+  {
+    "name": "Raja Bhoj International Airport",
+    "city": "Bhopal",
+    "iata": "BHO"
+  },
+  {
+    "name": "Bhavnagar Airport",
+    "city": "Bhavnagar",
+    "iata": "BHU"
+  },
+  {
+    "name": "Dabolim Airport",
+    "city": "Vasco da Gama",
+    "iata": "GOI"
+  },
+  {
+    "name": "Hubli Airport",
+    "city": "Hubli",
+    "iata": "HBX"
+  },
+  {
+    "name": "Devi Ahilyabai Holkar Airport",
+    "city": "Indore",
+    "iata": "IDR"
+  },
+  {
+    "name": "Jamnagar Airport",
+    "city": "Jamnagar",
+    "iata": "JGA"
+  },
+  {
+    "name": "Kandla Airport",
+    "city": "Kandla",
+    "iata": "IXY"
+  },
+  {
+    "name": "Khajuraho Airport",
+    "city": "Khajuraho",
+    "iata": "HJR"
+  },
+  {
+    "name": "Nanded Airport",
+    "city": "Nanded",
+    "iata": "NDC"
+  },
+  {
+    "name": "Dr. Babasaheb Ambedkar International Airport",
+    "city": "Naqpur",
+    "iata": "NAG"
+  },
+  {
+    "name": "Nashik Airport",
+    "city": "Nasik",
+    "iata": "ISK"
+  },
+  {
+    "name": "Pune Airport",
+    "city": "Pune",
+    "iata": "PNQ"
+  },
+  {
+    "name": "Porbandar Airport",
+    "city": "Porbandar",
+    "iata": "PBD"
+  },
+  {
+    "name": "Rajkot Airport",
+    "city": "Rajkot",
+    "iata": "RAJ"
+  },
+  {
+    "name": "Shirdi Airport",
+    "city": "Shirdi",
+    "iata": "SAG"
+  },
+  {
+    "name": "Solapur Airport",
+    "city": "Solapur",
+    "iata": "SSE"
+  },
+  {
+    "name": "Maharana Pratap Airport",
+    "city": "Udaipur",
+    "iata": "UDR"
+  },
+  {
+    "name": "Agartala Airport",
+    "city": "Agartala",
+    "iata": "IXA"
+  },
+  {
+    "name": "Bagdogra Airport",
+    "city": "Siliguri",
+    "iata": "IXB"
+  },
+  {
+    "name": "Shillong Airport",
+    "city": "Shillong",
+    "iata": "SHL"
+  },
+  {
+    "name": "Biju Patnaik Airport",
+    "city": "Bhubaneswar",
+    "iata": "BBI"
+  },
+  {
+    "name": "Netaji Subhash Chandra Bose International Airport",
+    "city": "Kolkata",
+    "iata": "CCU"
+  },
+  {
+    "name": "Kazi Nazrul Islam Airport",
+    "city": "Durgapur",
+    "iata": "RDP"
+  },
+  {
+    "name": "Gorakhpur Airport",
+    "city": "Gorakhpur",
+    "iata": "GOP"
+  },
+  {
+    "name": "Lokpriya Gopinath Bordoloi International Airport",
+    "city": "Guwahati",
+    "iata": "GAU"
+  },
+  {
+    "name": "Imphal Airport",
+    "city": "Imphal",
+    "iata": "IMF"
+  },
+  {
+    "name": "Sonari Airport",
+    "city": "Jamshedpur",
+    "iata": "IXW"
+  },
+  {
+    "name": "Jorhat Airport",
+    "city": "Jorhat",
+    "iata": "JRH"
+  },
+  {
+    "name": "Silchar Airport",
+    "city": "Silchar",
+    "iata": "IXS"
+  },
+  {
+    "name": "Lengpui Airport",
+    "city": "Aizawl",
+    "iata": "AJL"
+  },
+  {
+    "name": "North Lakhimpur Airport",
+    "city": "Lilabari",
+    "iata": "IXI"
+  },
+  {
+    "name": "Dibrugarh Airport",
+    "city": "Dibrugarh",
+    "iata": "DIB"
+  },
+  {
+    "name": "Dimapur Airport",
+    "city": "Dimapur",
+    "iata": "DMU"
+  },
+  {
+    "name": "Lok Nayak Jayaprakash Airport",
+    "city": "Patna",
+    "iata": "PAT"
+  },
+  {
+    "name": "Birsa Munda Airport",
+    "city": "Ranchi",
+    "iata": "IXR"
+  },
+  {
+    "name": "Ziro Airport",
+    "city": "Ziro",
+    "iata": "ZER"
+  },
+  {
+    "name": "Allahabad Airport",
+    "city": "Allahabad",
+    "iata": "IXD"
+  },
+  {
+    "name": "Sri Guru Ram Dass Jee International Airport",
+    "city": "Amritsar",
+    "iata": "ATQ"
+  },
+  {
+    "name": "Nal Airport",
+    "city": "Bikaner",
+    "iata": "BKB"
+  },
+  {
+    "name": "Lal Bahadur Shastri Airport",
+    "city": "Varanasi",
+    "iata": "VNS"
+  },
+  {
+    "name": "Bareilly Air Force Station",
+    "city": "Bareilly",
+    "iata": "BEK"
+  },
+  {
+    "name": "Chandigarh Airport",
+    "city": "Chandigarh",
+    "iata": "IXC"
+  },
+  {
+    "name": "Kanpur Airport",
+    "city": "Kanpur",
+    "iata": "KNU"
+  },
+  {
+    "name": "Dehradun Airport",
+    "city": "Dehradun",
+    "iata": "DED"
+  },
+  {
+    "name": "Indira Gandhi International Airport",
+    "city": "New Delhi",
+    "iata": "DEL"
+  },
+  {
+    "name": "Gwalior Airport",
+    "city": "Gwalior",
+    "iata": "GWL"
+  },
+  {
+    "name": "Jodhpur Airport",
+    "city": "Jodhpur",
+    "iata": "JDH"
+  },
+  {
+    "name": "Jaipur International Airport",
+    "city": "Jaipur",
+    "iata": "JAI"
+  },
+  {
+    "name": "Jammu Airport",
+    "city": "Jammu",
+    "iata": "IXJ"
+  },
+  {
+    "name": "Kishangarh Airport",
+    "city": "Ajmer",
+    "iata": "KQH"
+  },
+  {
+    "name": "Kota Airport",
+    "city": "Kota",
+    "iata": "KTU"
+  },
+  {
+    "name": "Leh Kushok Bakula Rimpochee Airport",
+    "city": "Leh",
+    "iata": "IXL"
+  },
+  {
+    "name": "Chaudhary Charan Singh International Airport",
+    "city": "Lucknow",
+    "iata": "LKO"
+  },
+  {
+    "name": "Pathankot Airport",
+    "city": "Pathankot",
+    "iata": "IXP"
+  },
+  {
+    "name": "Pantnagar Airport",
+    "city": "Pantnagar",
+    "iata": "PGH"
+  },
+  {
+    "name": "Sheikh ul Alam Airport",
+    "city": "Srinagar",
+    "iata": "SXR"
+  },
+  {
+    "name": "Murod Kond Airport",
+    "city": "Latur",
+    "iata": "LTU"
+  },
+  {
+    "name": "Bellary Airport",
+    "city": "Bellary",
+    "iata": "BEP"
+  },
+  {
+    "name": "Kempegowda International Airport",
+    "city": "Bangalore",
+    "iata": "BLR"
+  },
+  {
+    "name": "Coimbatore International Airport",
+    "city": "Coimbatore",
+    "iata": "CJB"
+  },
+  {
+    "name": "Cochin International Airport",
+    "city": "Kochi",
+    "iata": "COK"
+  },
+  {
+    "name": "Calicut International Airport",
+    "city": "Calicut",
+    "iata": "CCJ"
+  },
+  {
+    "name": "Kadapa Airport",
+    "city": "Kadapa",
+    "iata": "CDP"
+  },
+  {
+    "name": "Rajiv Gandhi International Airport",
+    "city": "Hyderabad",
+    "iata": "HYD"
+  },
+  {
+    "name": "Madurai Airport",
+    "city": "Madurai",
+    "iata": "IXM"
+  },
+  {
+    "name": "Mangalore International Airport",
+    "city": "Mangalore",
+    "iata": "IXE"
+  },
+  {
+    "name": "Chennai International Airport",
+    "city": "Chennai",
+    "iata": "MAA"
+  },
+  {
+    "name": "Vir Savarkar International Airport",
+    "city": "Port Blair",
+    "iata": "IXZ"
+  },
+  {
+    "name": "Pondicherry Airport",
+    "city": "Pondicherry",
+    "iata": "PNY"
+  },
+  {
+    "name": "Sri Sathya Sai Airport",
+    "city": "Puttaparthi",
+    "iata": "PUT"
+  },
+  {
+    "name": "Rajahmundry Airport",
+    "city": "Rajahmundry",
+    "iata": "RJA"
+  },
+  {
+    "name": "Salem Airport",
+    "city": "Salem",
+    "iata": "SXV"
+  },
+  {
+    "name": "Tiruchirapally Civil Airport Airport",
+    "city": "Tiruchirappally",
+    "iata": "TRZ"
+  },
+  {
+    "name": "Trivandrum International Airport",
+    "city": "Thiruvananthapuram",
+    "iata": "TRV"
+  }
+]
